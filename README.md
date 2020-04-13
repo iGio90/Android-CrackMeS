@@ -8,4 +8,4 @@ Some crackme i built for fun
 - Win the su + frida check
 - Retrieve back the input flag
 ###### Solutions
-None yet
+- [@AN frida solution](https://gist.github.com/iGio90/81b64cc0560b89646c989a40b5428764)
